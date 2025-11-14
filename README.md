@@ -1,15 +1,15 @@
 # 🧑‍🎓 Trabalho de Conclusão de Curso (TCC)
 
 ## 📘 Título
-**[Título completo do trabalho]**
+**Análise Comparativa de APIs de IA para Integração com Sistemas Empresariais**
 
 ## 👤 Autor
-**[Nome completo do aluno]**  
-Curso de [Nome do curso]  
-[Nome da instituição de ensino]  
+**Matheus Lemos Dias**  
+Curso de Sistemas de Informação  
+UNIAVAN 
 
 ## 🎓 Ano da Defesa
-**[2025]**
+**2025**
 
 ---
 
@@ -23,7 +23,7 @@ Curso de [Nome do curso]
 
 Este repositório contém os materiais desenvolvidos no âmbito do **Trabalho de Conclusão de Curso (TCC)** intitulado:
 
-> **"[Título completo do trabalho]"**, apresentado por **[Nome do aluno]** em **[Ano]**, como requisito parcial para obtenção do título de **Bacharel em Sistemas de Informação** pelo **Centro Universitário Avantis - UNIAVAN**.
+> **"Análise Comparativa de APIs de IA para Integração com Sistemas Empresariais"**, apresentado por **Matheus Lemos Dias** em **2025**, como requisito parcial para obtenção do título de **Bacharel em Sistemas de Informação** pelo **Centro Universitário Avantis - UNIAVAN**.
 
 O repositório inclui código-fonte, materiais de apoio, apresentações e referências utilizadas ao longo do desenvolvimento do trabalho.
 
@@ -41,7 +41,7 @@ O repositório inclui código-fonte, materiais de apoio, apresentações e refer
 
 Se este trabalho for utilizado em pesquisas ou projetos, cite da seguinte forma:
 
-> **[SOBRENOME, Nome]**. *[Título do Trabalho]*. Trabalho de Conclusão de Curso (Bacharelado em Sistemas de Informaação) — Centro Universitário Avantis - UNIAVAN, [Ano].
+> **DIAS, Matheus**. *Análise Comparativa de APIs de IA para Integração com Sistemas Empresariais*. Trabalho de Conclusão de Curso (Bacharelado em Sistemas de Informaação) — Centro Universitário Avantis - UNIAVAN, 2025.
 
 ---
 
