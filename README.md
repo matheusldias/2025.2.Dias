@@ -16,6 +16,20 @@ UNIAVAN
 ## 🗂️ Estrutura do Repositório
 
 ---
+/
+── Codigo-Fonte/
+   ├── dados_gpt/                       # Testes RAG com GPT (OpenAI)
+   ├── dados_gemini/                    # Testes RAG com Gemini (Google)
+   ├── dados_deepseek/                  # Testes RAG com DeepSeek
+   ├── resultados Python gpt/           # Retornos dos testes GPT via Python
+   ├── resultados Python gemini/        # Retornos dos testes Gemini via Python
+   ├── resultados Python deepseek/      # Retornos dos testes DeepSeek via Python
+   │
+   ├── CONTEXTO_LOJA.txt                # Contexto usado nos testes (Python e Postman)
+   ├── PERGUNTAS TESTES.txt             # Perguntas padronizadas usadas nas APIs
+   ├── RESULTADOS TESTES - POSTMAN.zip  # Retornos completos dos testes via Postman
+   └── Resultados Tabelados - Python-Postman.xlsx
+
 
 ---
 
@@ -51,14 +65,11 @@ Este repositório está licenciado sob os termos da **Creative Commons Attributi
 Você pode **baixar, modificar e utilizar** este conteúdo **desde que cite a fonte e não o utilize para fins comerciais**.  
 
 Ao término do Trabalho de Conclusão de Curso (TCC), **este repositório será transferido à instituição de ensino** como parte do acervo acadêmico permanente.  
-A identificação oficial do repositório deve seguir o padrão:
 
-> **Ano.Semestre.Sobrenome**  
-> Exemplo: `2025.1.Arruda` (defesa no 1º semestre) ou `2025.2.Arruda` (defesa no 2º semestre)
 
 ---
 
 ## 📬 Contato
 
-- 📧 [email@dominio.com] 
+- 📧 matheus.dias@uniavan.edu.br
 ---
