@@ -9,7 +9,7 @@ Curso de [Nome do curso]
 [Nome da instituição de ensino]  
 
 ## 🎓 Ano da Defesa
-**[Ano]**
+**[2025]**
 
 ---
 
