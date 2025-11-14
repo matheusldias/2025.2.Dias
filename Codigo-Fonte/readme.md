@@ -15,6 +15,11 @@ e documentação específica de cada API testada.
 
 O objetivo deste diretório é permitir a reprodutibilidade completa dos testes realizados com OpenAI GPT, Google Gemini e DeepSeek.
 
+O objetivo deste diretório é permitir a reprodutibilidade completa dos testes realizados com OpenAI GPT, Google Gemini e DeepSeek.
+
+## 📂 Estrutura Geral
+
+```text
 Codigo-Fonte/
 │
 ├── TCC.PROJ/                        # Arquivos de organização do projeto
@@ -23,12 +28,12 @@ Codigo-Fonte/
 │   └── readme.md                    # Instruções específicas
 │
 ├── dados_gemini/                    # Testes RAG com Gemini (Google)
-│   └── readme.md                    # Instruções específicas
+│   └── readme.md
 │
 ├── dados_deepseek/                  # Testes RAG com DeepSeek
-│   └── readme.md                    # Instruções específicas
+│   └── readme.md
 │
-├── resultados Python gpt/           # Resultados dos testes GPT 3.5 Turbor e 4.o Turbo via Python
+├── resultados Python gpt/           # Resultados dos testes GPT 3.5 Turbo e 4.0 Turbo via Python
 ├── resultados Python gemini/        # Resultados dos testes Gemini 2.0 Flash e 2.5 Flash via Python
 ├── resultados Python deepseek/      # Resultados dos testes DeepSeek Chat via Python
 │
@@ -36,7 +41,10 @@ Codigo-Fonte/
 ├── PERGUNTAS TESTES.txt             # Perguntas padronizadas para testes comparativos
 │
 ├── RESULTADOS TESTES - POSTMAN.zip  # Retornos completos dos testes via Postman
-└── Resultados Tabelados - Python-Postman.xlsx         # Consolidação de latência, tokens e desempenho
+└── Resultados Tabelados - Python-Postman.xlsx
+                                     # Consolidação de latência, tokens e desempenho
+```
+
 
 
 ## Observação Final
