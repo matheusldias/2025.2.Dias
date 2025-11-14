@@ -9,13 +9,11 @@ scripts Python para execução dos cenários RAG,
 
 resultados extraídos (via Python e Postman),
 
-estruturas organizacionais do projeto,
+estruturas organizacionais do projeto.
 
-e documentação específica de cada API testada.
-
-O objetivo deste diretório é permitir a reprodutibilidade completa dos testes realizados com OpenAI GPT, Google Gemini e DeepSeek.
 
 O objetivo deste diretório é permitir a reprodutibilidade completa dos testes realizados com OpenAI GPT, Google Gemini e DeepSeek.
+
 
 ## 📂 Estrutura Geral
 
