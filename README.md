@@ -17,21 +17,22 @@ UNIAVAN
 
 ---
 /
-── Codigo-Fonte/
-   ├── dados_gpt/                       # Testes RAG com GPT (OpenAI)
-   ├── dados_gemini/                    # Testes RAG com Gemini (Google)
-   ├── dados_deepseek/                  # Testes RAG com DeepSeek
-   ├── resultados Python gpt/           # Retornos dos testes GPT via Python
-   ├── resultados Python gemini/        # Retornos dos testes Gemini via Python
-   ├── resultados Python deepseek/      # Retornos dos testes DeepSeek via Python
-   │
-   ├── CONTEXTO_LOJA.txt                # Contexto usado nos testes (Python e Postman)
-   ├── PERGUNTAS TESTES.txt             # Perguntas padronizadas usadas nas APIs
-   ├── RESULTADOS TESTES - POSTMAN.zip  # Retornos completos dos testes via Postman
-   └── Resultados Tabelados - Python-Postman.xlsx
+```text
+/ 
+├── Codigo-Fonte/
+│   ├── dados_gpt/                       # Testes RAG com GPT (OpenAI)
+│   ├── dados_gemini/                    # Testes RAG com Gemini (Google)
+│   ├── dados_deepseek/                  # Testes RAG com DeepSeek
+│   ├── resultados Python gpt/           # Retornos dos testes GPT via Python
+│   ├── resultados Python gemini/        # Retornos dos testes Gemini via Python
+│   ├── resultados Python deepseek/      # Retornos dos testes DeepSeek via Python
+│   │
+│   ├── CONTEXTO_LOJA.txt                # Contexto usado nos testes (Python e Postman)
+│   ├── PERGUNTAS TESTES.txt             # Perguntas padronizadas usadas nas APIs
+│   ├── RESULTADOS TESTES - POSTMAN.zip  # Retornos completos dos testes via Postman
+│   └── Resultados Tabelados - Python-Postman.xlsx
+```
 
-
----
 
 ## 🧩 Descrição
 
